@@ -51,8 +51,8 @@ names = []
 for i in range (20531):
     names.append('gene_'+str(i))
 
-dataset = pandas.read_csv(r'C:\Users\PRATHAMESH PANDIT\Desktop\MachineLearningMastery\rna Cancer\data\data.csv', names=names)
-solutionset = pandas.read_csv(r'C:\Users\PRATHAMESH PANDIT\Desktop\MachineLearningMastery\rna Cancer\data\labels.csv')
+dataset = pandas.read_csv(r'C:\Users\PRATHAMESH PANDIT\Desktop\MachineLearningPractice\TumorClassifier\data\data.csv', names=names)
+solutionset = pandas.read_csv(r'C:\Users\PRATHAMESH PANDIT\Desktop\MachineLearningPractice\TumorClassifier\data\labels.csv')
 
 # shape
 print(dataset.shape)
