@@ -9,4 +9,4 @@ Classification and Regression Trees
 Gaussian Naive Bayes
 Support Vector Machines
 
-It then compares the performace of those models by using K-Fold cross-validation.
+It then compares the performace of these algorithms by using K-Fold cross-validation.
