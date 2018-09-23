@@ -10,5 +10,10 @@ Gaussian Naive Bayes
 Support Vector Machines
 
 It then compares the performace of these algorithms by using K-Fold cross-validation.
+Performs classification with an accuracy of > 97%
 
 Dataset available at https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq 
+
+Implemented using help from 
+https://machinelearningmastery.com/ 
+http://scikit-learn.org/stable/tutorial/index.html 
